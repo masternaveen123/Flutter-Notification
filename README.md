@@ -1,6 +1,8 @@
 # notification
 
-A new Flutter application.
+A Flutter application to show flutter notificatioon.
+![](screenshots/App.png)
+![](screenshots/Notification.png)
 
 ## Getting Started
 
