@@ -1,4 +1,4 @@
-# Notification
+# Flutter Notifications
 
 A Flutter application to show flutter notificatioon.
 ![](screenshots/App.png)
